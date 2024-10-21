@@ -4,6 +4,10 @@ This project is to create a toy Central Limit Order Book which handles limit ord
 
 The project is written in Nuxt 3 (see below for details) with the tailwind css framework. The application requires a file upload which contains all the orders to be processed (file upload was done by papaparse). An example input file is `orders-1.csv`. To use this application, make sure the file is in the same format and uses a `.csv` extension.
 
+## Example
+
+![Alt text](/examples/Screenshot.png?raw=true "Example Screenshot")
+
 ## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
