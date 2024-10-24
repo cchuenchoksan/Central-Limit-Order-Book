@@ -8,6 +8,8 @@ The project is written in Nuxt 3 (see below for details) with the tailwind css f
 
 ![Alt text](/examples/Screenshot.png?raw=true "Example Screenshot")
 
+The app is currently deployed at: https://main.d3kpsktbqzi7cx.amplifyapp.com
+
 ## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
